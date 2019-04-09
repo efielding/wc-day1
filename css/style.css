@@ -28,4 +28,6 @@ h1{
     border: 1px dotted olivedrab;
     margin: 10px;
     background-color: yellow;
+    list-style-type: none;
+
 }
